@@ -1,5 +1,5 @@
 # image-preprocessing
-## Software package for image preprocessing for further pattern recognition (4 semester)
+## Software package for image preprocessing using OpenCL for further pattern recognition (4 semester)
 ### Implemented functionality:
 * morphological operations:
     * erode
